@@ -71,6 +71,7 @@ Current Results
         Reward shaping may need further tuning.
         Network architecture may require adjustments.
         Exploration-exploitation balance might need tweaking.
+![Figure_1](https://github.com/user-attachments/assets/f6101c4b-0c4d-4018-bbf5-b2e6c51aad16)
 
 Future Improvements
 
