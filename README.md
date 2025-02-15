@@ -97,3 +97,7 @@ python snake_rl.py --play
 Conclusion
 
 This project is an ongoing experiment in reinforcement learning applied to the Snake game. While the model is not fully optimized yet, it has shown some progress. Future iterations will focus on improving efficiency, rewards, and exploration strategies.
+
+Update 1:
+
+In an attempt to increase improvement rates a DuelQN algortihm was implemented and code posted.
